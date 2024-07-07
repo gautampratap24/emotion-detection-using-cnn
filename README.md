@@ -15,5 +15,5 @@
 - with all face expression images in the FER2013 Dataset
 - command --> python TranEmotionDetector.py
 
-## run your emotion detection test file
+## Run your emotion detection test file
 python TestEmotionDetector.py
